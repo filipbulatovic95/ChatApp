@@ -16,7 +16,7 @@ namespace ChatAppServer.Hubs
 		{
 			await Groups.AddToGroupAsync(Context.ConnectionId, conn.ChatRoom);
 			await Clients.Group(conn.ChatRoom)
-				.SendAsync("ReceiveMessage", "admin", $"{conn.Username} " +
+				.SendAsync("JoinSpecificChatRoom", "admin", $"{conn.Username} " +
 				$"has joined {conn.ChatRoom}");
 		}
 	}
