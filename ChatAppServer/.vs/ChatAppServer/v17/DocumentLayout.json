@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|c:\\users\\filip\\desktop\\chatapp\\chatapp\\chatappserver\\chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|c:\\users\\filip\\desktop\\chatapp\\chatapp\\chatappserver\\chatappserver\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|c:\\users\\filip\\desktop\\chatapp\\chatapp\\chatappserver\\chatappserver\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|c:\\users\\filip\\desktop\\chatapp\\chatapp\\chatappserver\\chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6CE85F5-57CA-4559-9CEB-BC938642006C}|ChatAppServer\\ChatAppServer.csproj|c:\\users\\filip\\desktop\\chatapp\\chatapp\\chatappserver\\chatappserver\\chatappserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +38,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SharedDb.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\DataService\\SharedDb.cs",
+              "RelativeDocumentMoniker": "ChatAppServer\\DataService\\SharedDb.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\DataService\\SharedDb.cs",
+              "RelativeToolTip": "ChatAppServer\\DataService\\SharedDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:07:41.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatAppServer\\Program.cs",
               "ToolTip": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\Program.cs",
               "RelativeToolTip": "ChatAppServer\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T16:08:44.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "ChatAppServer\\Hubs\\ChatHub.cs",
               "ToolTip": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "ChatAppServer\\Hubs\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T16:01:55.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserConnection.cs",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\Models\\UserConnection.cs",
               "RelativeDocumentMoniker": "ChatAppServer\\Models\\UserConnection.cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ChatAppServer",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ChatApp\\ChatApp\\ChatAppServer\\ChatAppServer\\ChatAppServer.csproj",
               "RelativeDocumentMoniker": "ChatAppServer\\ChatAppServer.csproj",

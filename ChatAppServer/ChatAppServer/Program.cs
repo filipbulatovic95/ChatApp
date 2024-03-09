@@ -1,3 +1,4 @@
+using ChatAppServer.DataService;
 using ChatAppServer.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +20,8 @@ builder.Services.AddCors(opt =>
 			.AllowCredentials();
 	});
 });
+
+builder.Services.AddSingleton<SharedDb>();
 
 var app = builder.Build();
 
